@@ -9,7 +9,7 @@ I went from cad to cfd to prototype in this project. This easily took at least 2
 
 
 
-#TO see extra models of diffrent designs 
+# TO see extra models of diffrent designs 
 
 got to onshape and explore or see steps and stls in the MODELS folder
 
@@ -18,33 +18,33 @@ to see the foam proto types scroll down to the screenshot part of readme
 to see the  few demo of I going down the track go to demos folder
 
 
-#AI USAGE
+# AI USAGE
 ai was used to help teach me cfd software as it is very scary ☹️ 
 and I am just a rising sophmore 
 
 
-#How to reproduce 
+# How to reproduce 
 
 
-#Step 1
+# Step 1
 
 GO TO Canva pdf of drawing and cut print standard size on standard paper
 
-#Step 2
+# Step 2
 
 Cut out the diffrent views and glue to a 3" by 2" by 8" block of wood 
 
 I used to pine from a 2 by 4 
 
-#Step 3 
+# Step 3 
 
 cut out along lines and aqquire wheels and axels 
 I used lx pittsco wheels and the corresponding axels 
 
-#Step 4
+# Step 4
 
 add eye hole in bottom 
 
-#Step 5
+# Step 5
 
 go to a co2 track put a co2 cartidge in hole and RACE
