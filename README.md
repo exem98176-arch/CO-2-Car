@@ -48,3 +48,10 @@ add eye hole in bottom
 # Step 5
 
 go to a co2 track put a co2 cartidge in hole and RACE
+
+
+# BOM
+
+Ima do this later 
+
+LATER ME PLEASE DO THIS
