@@ -21,6 +21,7 @@ to see the  few demo of I going down the track go to demos folder
 # AI USAGE
 ai was used to help teach me cfd software as it is very scary ☹️ 
 and I am just a rising sophmore 
+also to help format BOM
 
 
 # How to reproduce 
@@ -52,6 +53,20 @@ go to a co2 track put a co2 cartidge in hole and RACE
 
 # BOM
 
-Ima do this later 
+BOM
 
-LATER ME PLEASE DO THIS
+a printed sheet with details 1x 
+
+a 2 by 4 beam cut to 8 in long 1x
+
+pittsco lx wheels   4x
+
+pittsco axles   2x 
+
+metal eye hooks 2x
+
+a co 2 cartirdge (12 grams 1x per rn
+
+a track (to test)
+
+Bill of Materials (BOM)ItemQtyPart Name / DescriptionSpecifications / Notes112x4 Wooden BeamCut to 8 inches in length24Pitsco LX WheelsStandard CO2 dragster wheels32Pitsco AxlesCompatible with LX wheels42Metal Eye HooksUsed as track guides / screw eyes5112g CO2 CartridgePropulsion source61Test TrackRequired for run execution
