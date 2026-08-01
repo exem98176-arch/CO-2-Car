@@ -51,23 +51,6 @@ add eye hole in bottom
 go to a co2 track put a co2 cartidge in hole and RACE
 
 
-# BOM
-
-BOM
-
-a printed sheet with details 1x 
-
-a 2 by 4 beam cut to 8 in long 1x
-
-pittsco lx wheels   4x
-
-pittsco axles   2x 
-
-metal eye hooks 2x
-
-a co 2 cartirdge (12 grams 1x per rn
-
-a track (to test)
 
 ## Bill of Materials (BOM)
 
