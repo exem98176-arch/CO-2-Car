@@ -69,4 +69,14 @@ a co 2 cartirdge (12 grams 1x per rn
 
 a track (to test)
 
-Bill of Materials (BOM)ItemQtyPart Name / DescriptionSpecifications / Notes112x4 Wooden BeamCut to 8 inches in length24Pitsco LX WheelsStandard CO2 dragster wheels32Pitsco AxlesCompatible with LX wheels42Metal Eye HooksUsed as track guides / screw eyes5112g CO2 CartridgePropulsion source61Test TrackRequired for run execution
+## Bill of Materials (BOM)
+
+| Item | Qty | Part Name / Description | Specifications / Notes |
+| :--- | :---: | :--- | :--- |
+| 1 | 1 | 2x4 Wooden Beam | Cut to 8 inches long |
+| 2 | 4 | Pitsco LX Wheels | Standard dragster wheels |
+| 3 | 2 | Pitsco Axles | Fits LX wheels |
+| 4 | 2 | Metal Eye Hooks | Track steering guides |
+| 5 | 1 | CO2 Cartridge | 12 grams, propulsion |
+| 6 | 1 | Track | For run testing |
+
