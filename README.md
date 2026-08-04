@@ -21,6 +21,7 @@ to see the  few demo of I going down the track go to demos folder
 # AI USAGE
 ai was used to help teach me cfd software as it is very scary ☹️ 
 and I am just a rising sophmore 
+and some designwork help 
 also to help format BOM
 
 
