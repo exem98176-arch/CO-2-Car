@@ -8,6 +8,8 @@ This project was about 5 day of work in a row at a engineering center hosting a 
 I went from cad to cfd to prototype in this project. This easily took at least 20 hr but not all is ducomented so I DO NOT EXEPECT THE FULL TIME SPENT.
 
 
+FILE LAPSE NAME IS ESP32 DUE TO GLITCH 
+
 
 # TO see extra models of diffrent designs 
 
