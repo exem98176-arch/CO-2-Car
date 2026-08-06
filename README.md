@@ -5,7 +5,7 @@
 
 This project is the story of creating a optimized co^2 car. The goal SPEED the track 80 ft with a 12g co2 cartridge. 
 This project was about 5 day of work in a row at a engineering center hosting a contest. I go day by day in journal of what I did there I COULD NOT WRITE THIS THEN DUE TO TIME LIMIT AND SOO MUCH WORK.
-I went from cad to cfd to prototype in this project. This easily took at least 20 hr but not all is ducomented so I DO NOT EXEPECT THE FULL TIME SPENT.
+I went from cad to cfd to prototype in this project. This easily took at least 30 hr but not all is ducomented so I DO NOT EXEPECT THE FULL TIME SPENT.
 
 
 FILE LAPSE NAME IS ESP32 DUE TO GLITCH 
